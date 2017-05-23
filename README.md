@@ -1,11 +1,7 @@
 README
 =======
 
-*Stream-m* is created to be an *open source* solution for streaming live video right into the web browser using the HTML5 video tag and Google's **WebM** or the prolific **H.264** video format.
-
-The current version is a *working prototype*, which showcases the main ideas. The main design goal is **low resource usage**. It has a web interface with a real-time bandwidth monitor (with the resolution of 1/10 of a second) for spotting network congestion.
-
-Independent streams (channels) are supported.
+Fork of stream-m/ repository from vbence/stream-m/.  To run: `cd dist/ && java -jar stream-m.jar server.properties`
 
 
 ## FORMATS
